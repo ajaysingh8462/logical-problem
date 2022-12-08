@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logical-problem", "logical-problem\logical-problem.csproj", "{F31703AC-9732-4BE0-846C-CEFF26C2C135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31703AC-9732-4BE0-846C-CEFF26C2C135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31703AC-9732-4BE0-846C-CEFF26C2C135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31703AC-9732-4BE0-846C-CEFF26C2C135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31703AC-9732-4BE0-846C-CEFF26C2C135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F050279-8DE2-45DE-B7BC-288DD1192BD2}
+	EndGlobalSection
+EndGlobal
